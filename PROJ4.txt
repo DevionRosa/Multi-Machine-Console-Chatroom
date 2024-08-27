@@ -1,15 +1,11 @@
-The program is fully complete but it does not work on multiple machines.
-
-The code is completely self-documenting. I added a color coding
+The code is completely self-documenting. I added color-coding
 that colors every user a different color.
 
 In order to get multiple machines to work the ChatServer is going to ask you
-to input your IPv4 address. In order to do this you are going to have to do
+to input your IPv4 address. To do this you are going to have to do
 ip addr in the Linux terminal. Using this as an argument for ChatServer and 
 on your other machines run ChatClient. The printed IP Address and Port 
 on the ChatServer machine is going to be your 2 arguments. This should allow you 
 to chat between multiple machines.
-
-I made it look less spartan which should also be considered during grading.
 
 MULTI-MACHINE
